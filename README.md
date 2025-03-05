@@ -2,6 +2,8 @@
 
 A computer vision application that allows you to manipulate virtual shapes using hand gestures.
 
+![Virtual Drag and Drop Demo](virtual_drag.png)
+
 ## Features
 
 - Multiple shape support (Rectangle, Circle, Triangle)
