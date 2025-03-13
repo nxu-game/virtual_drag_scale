@@ -2,7 +2,7 @@
 
 A computer vision application that allows you to manipulate virtual shapes using hand gestures.
 
-![Virtual Drag and Drop Demo](virtual_drag.png)
+![Virtual Drag and Drop Demo](https://github.com/wangqiqi/interesting_assets/raw/main/images/virtual_drag.png)
 
 ## Features
 
