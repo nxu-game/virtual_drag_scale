@@ -78,4 +78,12 @@ python virtual_drag_drop.py
   - Multiple shape types
   - Simultaneous rotation and dragging
   - Smooth scaling with limits
-  - Visual feedback for active modes 
+  - Visual feedback for active modes
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact me:
+
+- WeChat: znzatop
+
+![WeChat](https://github.com/wangqiqi/interesting_assets/blob/main/images/wechat.jpg) 
